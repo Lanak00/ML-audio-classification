@@ -1,17 +1,8 @@
 # ML-audio-classification
+Given a database with audio parameters extracted from audio recordings of babies, we applied ML algorithms (Neural networks, Logistic Regression, kNN) in order to train our model to recognize whether baby is crying, laughing or producing neutral sounds
 
+-----------------------------------------------------------------------------------------------------------------------------
 PROJEKAT IZ PREPOZNAVANJA OBLIKA
-
-U zavisnosti od odabrane baze, potrebno je rešavati problem klasifikacije, regresije ili klasterizacije. Pre 
-svega, uraditi analizu baze što podrazumeva i rešavanje nedostajućih vrednosti i po potrebi prevođenje 
-kategorija kategoričkih varijabli u numeričke vrednosti. Potom odabrati bar 3 algoritma i unakrsnom 
-validacijom uporediti njihove performanse na odabranoj bazi. Pokušati i redukciju dimenzionalnosti
-nekom od metoda, pa ponoviti odabrane algoritme i uporediti performanse. Konačno, u izveštaju (do 4 
-str.) predstaviti najvažnije detalje iz analize podataka, kao i uporedne analize performansi modela, uz 
-kratke teorijske opise korišćenih algoritama. Podrazumeva se da izveštaj treba da ima i uvod u problem, 
-cilj istraživanja, kao i zaključke na samom kraju i preporučljivo je navesti korišćenu literaturu. U okviru
-pojedinih foldera za projektne fajlove možete naći dodatne dokumente koji mogu da posluže za inspiraciju
-ili koji detaljnije opisuju bazu.
 
 Svaki fajl odnosi se na snimke jedne klase (plac, smeh i neutralno). Svaki fajl sadrzi obelezja cija su imena 
 data kao imena kolona (osnovna frekvencija, frekvencija prvog i drugog formanta, kao i 12 mfcc, ukljucujuci i nulti;
