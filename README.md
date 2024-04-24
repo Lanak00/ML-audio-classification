@@ -2,7 +2,6 @@
 Given a database with audio parameters extracted from audio recordings of babies, we applied ML algorithms (Neural networks, Logistic Regression, kNN) in order to train our model to recognize whether baby is crying, laughing or producing neutral sounds
 
 -----------------------------------------------------------------------------------------------------------------------------
-PROJEKAT IZ PREPOZNAVANJA OBLIKA
 
 Svaki fajl odnosi se na snimke jedne klase (plac, smeh i neutralno). Svaki fajl sadrzi obelezja cija su imena 
 data kao imena kolona (osnovna frekvencija, frekvencija prvog i drugog formanta, kao i 12 mfcc, ukljucujuci i nulti;
